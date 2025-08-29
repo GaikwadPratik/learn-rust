@@ -6,7 +6,7 @@ edition = "2024"
 [dependencies]
 clap={ version = "4.5.34", features = ["derive", "env"] }
 tracing={ version = "0.1.41"}
-tracing-subscriber={ version = "0.3.19", features = [ "fmt", "std", "local-time", "time", "env-filter" ]}
+tracing-subscriber={ version = "0.3.20", features = [ "fmt", "std", "local-time", "time", "env-filter" ]}
 tracing-appender = { version = "0.2.3" }
 git2={version = "0.20.1"}
 thiserror={ version = "2.0.12"}
