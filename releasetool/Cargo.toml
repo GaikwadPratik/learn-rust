@@ -11,4 +11,4 @@ tracing-appender = { version = "0.2.3" }
 git2={version = "0.20.1"}
 thiserror={ version = "2.0.12"}
 anyhow={ version = "1.0.97"}
-time={ version = "0.3.41" }
+time={ version = "0.3.47" }
